@@ -1,0 +1,1 @@
+import{_ as n,r as s,o as e,c as r,a as c,w as l,b as o,d as _,K as i}from"./index.c471f00d.js";const p={name:"Layout"},u={class:"layout-container"};function d(m,f,v,w,x,y){const t=s("router-view");return e(),r("div",u,[c(t,null,{default:l(({Component:a})=>[(e(),o(i,null,[(e(),o(_(a)))],1024))]),_:1})])}var h=n(p,[["render",d]]);export{h as default};
